@@ -28,9 +28,7 @@
     {
       "url": "heroku/java"
     }
-  ]
-}
-{
+  {
    "stack": "heroku-20"
 }
-
+]
