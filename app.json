@@ -52,7 +52,7 @@
   
   "buildpacks": [
     {
-      "url": "heroku/jvm"
+      "url": "heroku/java"
     },
     {
       "url": "heroku/nodejs"
