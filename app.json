@@ -24,6 +24,9 @@
     },
     {
       "url": "heroku/nodejs"
+    },
+    {
+      "url": "heroku/java"
     }
   ]
 }
